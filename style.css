@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+
+h1 {
+    text-align: center;
+    background-color: cadetblue;
+    padding: 10px;
+}
+
+.result {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.result h2{
+    color: tomato;
+    
+}
+
+.result img{
+    width: 200px;
+    height: 200px;
+}
